@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ThreadsApp</string>
     <string name="downloadImage">Download Image</string>
+    <string name="toastDownloadImage">Downloading image...</string>
+    <string name="toastError">Error downloading image</string>
+    <string name="toastSuccess">Image downloaded successfully</string>
+    <string name="imageURL" translatable="false">https://thumbs.dreamstime.com/b/spring-flowers-blue-crocuses-drops-water-backgro-background-tracks-rain-113784722.jpg</string>
 </resources>
